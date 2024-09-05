@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="mySuite">
+  <test name="my Test">
+    <classes>
+      <class name="TestNG1.adminMyPC"/>
+      <class name="TestNG1.MyPCLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+//executing the test case in group
